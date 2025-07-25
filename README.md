@@ -34,3 +34,15 @@ To install the necessary dependencies, run:
 
 ```bash
 pip install -r requirements.txt
+
+
+If you find this work useful, please cite the following article:
+
+```bibtex
+@misc{bahrami2025dkdkan,
+  author       = {Bahrami, Mohammad and [Your Co-authors Here]},
+  title        = {Lightweight Intrusion Detection Using Kolmogorov–Arnold Networks and Decoupled Knowledge Distillation},
+  year         = {2025},
+  howpublished = {\url{https://github.com/BahMoh/DKD-KAN}},
+  note         = {Preprint. Under review.}
+}
