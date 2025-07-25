@@ -35,6 +35,24 @@ To install the necessary dependencies, run:
 ```bash
 pip install -r requirements.txt
 ```
+## 📊 Datasets
+
+We evaluate our method on two publicly available industrial control system datasets:
+
+- **WADI (Water Distribution)** dataset can be accessed on Kaggle:  
+  [https://www.kaggle.com/datasets/giovannimonco/wadi-data](https://www.kaggle.com/datasets/giovannimonco/wadi-data)
+
+- **SWaT (Secure Water Treatment)** dataset can be downloaded using `gdown`:  
+
+  ```bash
+  # Install gdown if not already installed
+  !pip install gdown
+  
+  # Download SWaT dataset files
+  !gdown 1Q20VOHE0wvl5ASMF_EKo0xM7H6t5YCCf  # Attack_v0
+  !gdown 1B42LXq4OXpmjtwFIPw-cSHr6SZzYJDkL  # Normal_v1
+  ```
+
 ## 🧠 Citation
 If you find this work useful, please cite the following article:
 
