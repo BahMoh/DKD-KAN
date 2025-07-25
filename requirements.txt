@@ -1,0 +1,6 @@
+sklearn ==  1.2.2
+numpy ==  1.26.4
+pandas ==  2.2.3
+torch ==  2.5.1+cu121
+seaborn ==  0.12.2
+matplotlib ==  3.7.5
