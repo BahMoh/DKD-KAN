@@ -63,4 +63,10 @@ If you find this work useful, please cite the following article:
   journal={arXiv preprint arXiv:2507.10808},
   year={2025}
 }
+@article{alikhani2025kan,
+  title={KAN-HAR: A Human activity recognition based on Kolmogorov-Arnold Network},
+  author={Alikhani, Mohammad},
+  journal={arXiv preprint arXiv:2508.11186},
+  year={2025}
+}
 ```
